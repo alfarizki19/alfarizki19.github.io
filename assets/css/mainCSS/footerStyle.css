@@ -1,0 +1,17 @@
+#divControllPanel {
+  width: min(90vw, 451px);
+  aspect-ratio: 451 / 93;
+  margin: 0 auto 2.96% auto;
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  box-sizing: border-box;
+  padding: 0 16px;
+}
+
+/* Tombol (bisa diatur ukuran/posisi nanti) */
+
+#buttonAR, #buttonScreenShoot, #buttonCollapsePartMenu {
+  display: inline-block;
+}
+
