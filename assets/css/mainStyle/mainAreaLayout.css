@@ -118,7 +118,7 @@
 
 @media (max-width: 991.98px) {
   #mainArea.menu-open #sketchfabViewerArea {
-    height: calc(100vh - 525px);
+    height: calc(100% - 135px)
   }
 }
 
